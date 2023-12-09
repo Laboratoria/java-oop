@@ -1,14 +1,14 @@
-# Programación Orientada a Objetos en Java
-La programación orientada a objetos (OOP) es un paradigma de programación que se
-basa en el concepto de "clases" y "objetos". Java es un lenguaje de programación
-que sigue de cerca los principios de la OOP. Aquí hay algunos conceptos clave:
+# Programação orientada a objetos em Java
+A programação orientada a objetos (OOP) é um paradigma de programação baseado no
+conceito de "classes" e "objetos". Java é uma linguagem de programação
+que segue de perto os princípios da OOP. Aqui estão alguns conceitos-chave:
 
-## Principios
+## Princípios
 
-### 1. Clases y Objetos
-En Java, todo se implementa a través de clases y objetos. Una **clase** es un 
-plano o modelo a partir del cual se crean **objetos**. Un objeto es una 
-instancia de una clase.
+### 1. Classes e objetos
+Em Java, tudo é implementado por meio de classes e objetos. Uma **classe** é um
+projeto ou modelo a partir do qual são criados **objetos**. Um objeto é uma
+instância de uma classe.
 
 ```java
 public class Person {
@@ -31,9 +31,9 @@ public class Main {
 ```
 
 ### 2. Encapsulamiento
-El encapsulamiento en Java se logra declarando atributos de clase como privados
-y proporcionando métodos públicos (getters y setters) para acceder y modificar 
-esos atributos.
+O encapsulamento em Java é obtido declarando os atributos da classe como 
+privados e fornecendo métodos públicos (getters e setters) para acessar e 
+modificar esses atributos. Esses atributos
 
 ```java
 public class Person {
@@ -49,9 +49,10 @@ public class Person {
 }
 ```
 
-### 3. Herencia
-Java admite la herencia, que permite que una clase herede atributos y métodos de
-otra clase. La herencia se logra mediante la palabra clave extends.
+### 3. Herança
+O Java oferece suporte à herança, o que permite que uma classe herde atributos e
+métodos de outra classe. outra classe. A herança é obtida por meio da 
+palavra-chave extends.
 
 ```java
 public class Animal {
@@ -99,9 +100,10 @@ public class Cat extends Animal {
 ```
 
 ### 4. Polimorfismo
-Java permite el polimorfismo, lo que significa que un objeto puede tomar muchas 
-formas. Esto se logra mediante la sobrecarga de métodos y la implementación de 
+O Java permite o polimorfismo, o que significa que um objeto pode assumir várias
+formas. Isso é obtido por meio da sobrecarga de métodos e da implementação de 
 interfaces.
+
 ```java
 public interface MusicalInstrument {
     void play();
@@ -131,10 +133,10 @@ public class Main {
 }
 ```
 
-### 5. Abstracción
-Java permite la abstracción, que implica simplificar y modelar conceptos del 
-mundo real en clases y objetos. La abstracción se logra mediante la declaración 
-de clases abstractas e interfaces.
+### 5. Abstração
+O Java permite a abstração, que envolve a simplificação e a modelagem de 
+conceitos reais em classes e objetos. A abstração é obtida por meio da 
+declaração de classes e ‘interfaces’ abstratas
 
 ```java
 public abstract class Shape {
@@ -196,8 +198,8 @@ public class Main {
 ```
 
 ## Referencias
-Los conceptos de OOP se pueden aprender de varias fuentes. Aquí hay algunos 
-enlaces útiles:
+Os conceitos de OOP podem ser aprendidos em várias fontes. Aqui estão alguns
+links úteis:
 
 - [Javatpoint](https://www.javatpoint.com/java-oops-concepts)
 - [Tutorialspoint](https://www.tutorialspoint.com/java/java_object_classes.htm)
