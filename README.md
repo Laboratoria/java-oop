@@ -3,6 +3,11 @@ La programación orientada a objetos (OOP) es un paradigma de programación que 
 basa en el concepto de "clases" y "objetos". Java es un lenguaje de programación
 que sigue de cerca los principios de la OOP. Aquí hay algunos conceptos clave:
 
+## Requisitos
+- Para poder seguir los siguientes ejemplos es necesario seguir esta 
+[guía](https://github.com/laboratoria/java-setup) y tener todo listo para
+comenzar a programar con Java 🫡
+
 ## Principios
 
 ### 1. Clases y Objetos
