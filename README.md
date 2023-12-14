@@ -4,9 +4,39 @@ basa en el concepto de "clases" y "objetos". Java es un lenguaje de programació
 que sigue de cerca los principios de la OOP. Aquí hay algunos conceptos clave:
 
 ## Requisitos
-- Para poder seguir los siguientes ejemplos es necesario seguir esta 
+> Para poder seguir los siguientes ejemplos es necesario seguir esta 
 [guía](https://github.com/laboratoria/java-setup) y tener todo listo para
 comenzar a programar con Java 🫡
+
+Antes de comenazar con la POO se debe repasar y entener los conceptós básicos
+de java. Crea la primera clase del proyecto que contenga el método main. 
+Puedes agregar un comando que muestre "¡Hola mundo!", en la consola.
+Así podrás verificar si tus configuraciones son correctas.
+Además, puedes estudiar conceptos del lenguaje como:
+
+- ¿Qué son las clases y cómo construirlas?
+- ¿Qué son los métodos y cómo utilizarlos?
+- ¿Qué tipos de datos existen en el lenguaje? (Recuerda los que más usaste en
+  JavaScript y trata de buscar tipos similares).
+- ¿Cómo crear un array usando Java?
+- ¿Qué son los modificadores de acceso como: `public`, `private`, `protected`?
+- ¿Qué son los métodos constructores? ¿Cómo hacerlos?
+- ¿Qué es el encapsulamiento? ¿Cómo hacerlo?
+- ¿Qué es la herencia? ¿Cómo crearla en Java?
+
+Recuerda también utilizar contenidos prácticos para comprender estos conceptos.
+¡No pases mucho tiempo solo leyendo o viendo videos!
+¡Crea códigos! Inténtalo, equivócate, inténtalo de nuevo, etc.
+
+#### Contenidos que pueden ayudarte en los primeros pasos con Java
+
+- [Learn the Basics of Java Programming](https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/)
+- [Programación Orientada a Objetos com Java](https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/)
+- [Java Basic Syntax](https://www.geeksforgeeks.org/java-basic-syntax/)
+- [Java Data Types And Variables – Explained for Beginners](https://www.freecodecamp.org/news/java-data-types-and-variables/)
+- [Learn Java](https://www.w3schools.com/java/default.asp)
+- [Java Classes and Objects](https://www.w3schools.com/java/java_classes.asp)
+- [Java Methods](https://www.w3schools.com/java/java_methods.asp)
 
 ## Principios
 

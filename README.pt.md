@@ -4,9 +4,39 @@ conceito de "classes" e "objetos". Java é uma linguagem de programação
 que segue de perto os princípios da OOP. Aqui estão alguns conceitos-chave:
 
 ## Requisitos
-- Para poder seguir os exemplos a seguir, é necessário seguir o seguinte
+> Para poder seguir os exemplos a seguir, é necessário seguir o seguinte
 [guia](https://github.com/Laboratoria/java-setup/blob/main/README.pt.md) 
 e ter tudo pronto para começar a programar com Java 🫡
+
+Antes de começar a usar a OOP, você deve revisar e entender os conceitos básicos de Java.
+Crie a primeira classe do projeto que contenha o método main.
+Você pode adicionar um comando que exiba "Olá mundo!" no console. Assim vc
+poderá checar se as suas configurações estão corretas.
+Além disso, você pode estudar conceitos da linguagem como:
+
+- O que são classes e como construí-las?
+- O que são métodos e como utilizá-los?
+- Quais o tipos de dados existentes na linguagem?
+(Lembre-se dos que você mais utilizou em JavaScript e tente buscar por tipos similares)
+- Como criar um array usando Java?
+- O que são modificadores de acesso como: `public`, `private`, `protected`?
+- O que são métodos construtores? Como fazê-lo?
+- O que é encapsulamento? Como fazê-lo?
+- O que é herança? Como criar no Java?
+
+Lembre-se de também utilizar conteúdos práticos para compreender esses
+conceitos. Não passe muito tempo somente lendo ou assistindo vídeos!
+Crie códigos! Tente, erre, tente de novo, etc.
+
+#### Conteúdos que podem te apoiar nos primeiros passos com Java
+
+- [Learn the Basics of Java Programming](https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/)
+- [Programação Orientada a Objetos com Java - Kamila Code](https://www.youtube.com/watch?v=zHPx0vyFMOI&list=PL_pqVN-1MnwNhaNktj8ukfX9yfjWFf7S-)
+- [Java Basic Syntax](https://www.geeksforgeeks.org/java-basic-syntax/)
+- [Java Data Types And Variables – Explained for Beginners](https://www.freecodecamp.org/news/java-data-types-and-variables/)
+- [Learn Java](https://my-learning.w3schools.com/tutorial/java)
+- [Java Classes and Objects](https://www.w3schools.com/java/java_classes.asp)
+- [Java Methods](https://www.w3schools.com/java/java_methods.asp)
 
 ## Princípios
 
